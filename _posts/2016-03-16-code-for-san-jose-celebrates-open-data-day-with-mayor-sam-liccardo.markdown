@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Code for San Jose Celebrates Open Data Day with Mayor Sam Liccardo"
+author: Radhika Nair
 date:   2016-03-16 20:36:53 -0700
 categories: CodeAcross, Mayor, OpenDataDay, OpenDataJam
 ---
@@ -24,7 +25,7 @@ Here are some of the projects the teams worked on:
 
 **Tool for Residential Garbage Pick-Up:** Based on the Hauler Data published on the [San Jose Open Data Portal](http://data.sanjoseca.gov/home), the team under Vivek Bansal is trying to create a more user friendly lookup tool than the one currently on the [City of San Jose Website](https://www.sanjoseca.gov/index.aspx?nid=3079). The app would answer such questions as: “When do I need to put my garbage out?”  and “Who do I need to talk to when my trash can is broken?”  Work continues at [Trash Pick Up Portal](https://github.com/codeforsanjose/trash-pickup-portal).  
 
-**Beta Testing the Open Data Portal:**  The challenge was to provide a summary of user experience of the recently launched Open Data Portal. The task included but not limited to analyzing a dataset of interest by using a tool of participants’ choice, such as statistical tools, spreadsheets, or own code. The spotlight of this hack was the spot prize announced by the event organizers. The participant who files the highest number of defects on the portal would win INOX tickets for two. Along with Vivek and Jennifer Prufer, I joined this group as usability was something closer to heart. Finally I ended up being the lucky one to grab the INOX tickets !  
+**Beta Testing the Open Data Portal:**  The challenge was to provide a summary of user experience of the recently launched Open Data Portal. The task included but not limited to analyzing a dataset of interest by using a tool of participants’ choice, such as statistical tools, spreadsheets, or own code. The spotlight of this hack was the spot prize announced by the event organizers. The participant who files the highest number of defects on the portal would win INOX tickets for two. Along with Vivek and Jennifer Prufer, I joined this group as usability was something closer to heart. Finally I ended up being the lucky one to grab the IMAX tickets !  
 
 The hackers and attendees shared their experiment and experience with the world by posting pictures of themselves on various social media by using the hashtags #CodeAcross and #opendatajam.    
 
