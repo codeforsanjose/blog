@@ -33,7 +33,7 @@ Sketches city hall logos - image missing
 combined - image missing  
 * **Shortlisting:** I shortlisted six options from the explorations and asked the core key members to narrow down on their preferred choices. We finally decided on the one with the “Rotunda Hall.” I further simplified the silhouette to achieve a clean and modern look. 
 * **Colors:** The colors are inspired from our parent organization, Code for America. Although the look is similar, the exact shades vary. The primary colors in our logo are:
-![colors](https://github.com/codeforsanjose/blog/blob/gh-pages/assets/colors.png "Code for San Jose Logo Colors")  
+![colors](https://github.com/codeforsanjose/blog/blob/gh-pages/assets/colors.png?raw=true "Code for San Jose Logo Colors")  
 | --- | --- |  
 | Blue | Red |  
 | #319CC5 | #D52435 |  
@@ -43,4 +43,4 @@ combined - image missing
 
 Code for San Jose is more than just a group of people. It is a set of principles, enthusiasm and dedication that reflects a close-knit community moving towards a better tomorrow, and I am excited that now our logo depicts those values. We are proud to present to you the awesome logo for Code for San Jose!  
 
-![logo](https://github.com/codeforsanjose/blog/blob/gh-pages/assets/logo.jpg "Code for San Jose Logo")
+![logo](https://github.com/codeforsanjose/blog/blob/gh-pages/assets/logo.jpg?raw=true "Code for San Jose Logo")
