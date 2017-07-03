@@ -9,7 +9,7 @@ I joined Code for San Jose in the month of July 2015 and my first task was to de
 
 # Some Initial Explorations
 
-image1 - missing  
+![Initial concepts](https://github.com/codeforsanjose/blog/blob/gh-pages/assets/blog005.png?raw=true "Initial concepts")   
 
 While they did fulfill the criteria, I wasn’t completely satisfied, because, the logos did not resonate entirely with the identity of the cohort. Code for San Jose welcomes not just coders but also designers, data geeks, policy wonks and all community members who have an interest in using technology, creativity and human spirit to solve societal issues. I realized we needed a symbol that each of them could relate with. In my discussion with the group members, their unanimous vote showed how closely each and every member was attached to the community and how they wanted to see its reflection in the logo.  
 
@@ -39,7 +39,10 @@ combined - image missing
 | #319CC5 | #D52435 |  
 | R49 G156 B197 | R213 G36 B53 |  
 
-* **Typography:** The font used in the logo is “Myriad Pro.” I particularly chose this font as the perfectly straight stems, flat endings and the apt letter proportions imparts warmth and readability. Moreover, it pairs up well with the illustration of the building. While the crisp outlines synchronize with the precise letter fit, the clean open shapes balance the closed circular structure, thus enhancing the harmonious display.   
+* **Typography:** The font used in the logo is “Myriad Pro.” I particularly chose this font as the perfectly straight stems, flat endings and the apt letter proportions imparts warmth and readability. Moreover, it pairs up well with the illustration of the building. While the crisp outlines synchronize with the precise letter fit, the clean open shapes balance the closed circular structure, thus enhancing the harmonious display.  
+
+![Initial designs](https://github.com/codeforsanjose/blog/blob/gh-pages/assets/blog006.jpg?raw=true "Initial Designs")  
+![Narrowed down designs](https://github.com/codeforsanjose/blog/blob/gh-pages/assets/blog007.jpg?raw=true "Narrowed down designs")  
 
 Code for San Jose is more than just a group of people. It is a set of principles, enthusiasm and dedication that reflects a close-knit community moving towards a better tomorrow, and I am excited that now our logo depicts those values. We are proud to present to you the awesome logo for Code for San Jose!  
 

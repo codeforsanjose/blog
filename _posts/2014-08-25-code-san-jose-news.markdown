@@ -14,4 +14,4 @@ As you can see in the photo below, the article also features a great photo of Na
 
 The article also puts Code for San Jose’s work in the context of the broader open data and civic tech movements, citing projects in Oakland, San Francisco and Palo Alto, and quoting VTA’s Cody Kraatz.  
 
-Photo of news article - missing image  
+![San Jose Metro News Clip](https://github.com/codeforsanjose/blog/blob/gh-pages/assets/blog004.jpg?raw=true "San Jose Metro News Clip")  
